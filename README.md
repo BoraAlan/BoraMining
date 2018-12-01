@@ -1,0 +1,2 @@
+# BoraMining
+pool 1
